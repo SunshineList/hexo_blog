@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Tuple | BLOG | 🐔
 subtitle: ''
 description: ''
-keywords:
-author: John Doe
-language: en
+keywords: 'blog,tuple,博客,面试,python'
+author: Tuple Wang
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://001108.xyz
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
